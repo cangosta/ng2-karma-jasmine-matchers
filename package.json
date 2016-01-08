@@ -1,0 +1,22 @@
+{
+  "name": "ng2-karma-jasmine-matchers",
+  "version": "1.0.0",
+  "description": "a set of useful karma matchers",
+  "main": "ng2-karma-jasmine-matchers.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cangosta/ng2-karma-jasmine-matchers.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "karma",
+    "jasmine",
+    "angular2",
+    "ng2",
+    "matchers"
+  ],
+  "author": "Luiz Alberto de Castro Santos",
+  "license": "MIT"
+}
